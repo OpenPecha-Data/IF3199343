@@ -1,0 +1,39 @@
+id: IF3199343
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:43:02.883695'
+last_modified: '2022-06-19T10:43:02.883711'
+parser: null
+source_metadata:
+  title: Supplement to the Hagiography of Mus chen dKon mchog rgyal mtshan (1388-1469);
+    Lamdre Lobshe, vol. ka, title no. 25
+  author: dge slong bsod nams seng ge
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-20); converted from external file, unrevised, spell-checked, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/378
+  bases:
+    4acb:
+      title: Supplement to the Hagiography of Mus chen dKon mchog rgyal mtshan (1388-1469);
+        Lamdre Lobshe, vol. ka, title no. 25
+      order: 1
+      base_file: 4acb.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
